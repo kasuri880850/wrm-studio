@@ -1,0 +1,7 @@
+{
+  "name": "WRM STUDIO",
+  "description": "A comprehensive creative studio featuring sentiment analysis, trend tracking, executive summaries, AI chat, conversational voice agents, and video generation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
